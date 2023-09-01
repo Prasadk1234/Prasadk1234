@@ -1,4 +1,3 @@
-GitHub Bio:
 🚀 Data Analyst | 🤖 AI Enthusiast | 📊 Data Visualization Explorer | 📜 SQL Aficionado | 📈 Passionate about ML & Deep Learning | 🌟 Contributing to Open Source | 📚 Lifelong Learner
 
 👋 Hey there, I'm Prasad ! I've got a thing for data and a growing fascination with AI, particularly Machine Learning and Deep Learning. My journey began by paying attention to the nitty-gritty of data, creating eye-catching data visuals, and diving deep into SQL.
